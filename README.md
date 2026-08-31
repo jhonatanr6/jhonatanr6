@@ -53,13 +53,3 @@ Aspirante em:
 </div>
 
 ---
-
-## GitHub em números
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonatanr6&theme=tokyonight" alt="Resumo do perfil" />
-
-</div>
-
----

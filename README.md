@@ -58,12 +58,7 @@ Aspirante em:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhonatanr6&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanr6&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=jhonatanr6&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonatanr6&theme=tokyonight" alt="Resumo do perfil" />
 
 </div>
 
